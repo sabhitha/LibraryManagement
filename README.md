@@ -11,11 +11,11 @@ Library management contains following packages
  
 
 Class wise details:
-Books class is for adding Books with details
-Inventory class is to add /remove /update books to library
-Users class is to uniquely identify user
-Membership classes manages to add users into library and track books lent by users
-Driver classes populate with books in start of application and functions to prompt user with inputs
+- Books class is for adding Books with details
+- Inventory class is to add /remove /update books to library
+- Users class is to uniquely identify user
+- Membership classes manages to add users into library and track books lent by users
+- Driver classes populate with books in start of application and functions to prompt user with inputs
 
 
 Additional enhancements(to-do):
